@@ -1,0 +1,4 @@
+=== Evaluation Scores ===
+BLEU Score: 0.9977
+CHRF Score: 12.6159
+TER Score:  189.2542
